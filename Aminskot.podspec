@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Aminskot'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Just casually gather some contact list and device information.'
   s.description      = 'A detailed description of Aminskot pod, explaining its features, usage, and benefits.'
   s.homepage         = 'https://github.com/a1344435681/Aminskot'
